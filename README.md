@@ -3,14 +3,19 @@ Battleship
 
 AI competition built on Node.js. Players create bots in JavaScript. 
 
- - Documentation is included in the framework.
+BarcampSPS
+=====
 
- - Framework installs like any other Node.js application. Download source code and run npm install from the command line. Note that it is currently setup to run on Azure/IISNode so you would need to tweak the port setting in app.js in order to run in another environment.
+Requerimientos: 
+	- NodeJS
 
- - If you wish to run this on a remote server, I suggest switching to the 'Remote' configuration which uses Persona to authenticate users and filter them by email address domain. This involves replacing `app.js` with `app.remote.js` and `views\layout.jade` with `views\layout.remote.jade`.
+Pasos para ejecutarlo localmente: 
 
+	- Instalar NodeJS
+	- Descargar el repositorio ( clonarlo con git, o descargar el zip )
+	- Entrar a una terminal y navegar a la raiz de la carpeta descargada.
+	- Ejecutar 
 
- - Battles can be run in **Fast** mode or **Visual** mode (screenshots below). Visual mode runs three games and allows you to step through them at various speeds.
 
 ## Fast Mode ##
 
