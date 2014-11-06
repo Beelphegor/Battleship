@@ -21,7 +21,6 @@ Pasos para ejecutarlo localmente:
 	- abrir el navegador en la direccion http://localhost:8080
 
 Problemas? rsiwady29@gmail.com
-===
 
 ## Fast Mode ##
 
