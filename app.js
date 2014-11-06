@@ -47,8 +47,8 @@ app.get('/login', function(req, res){
   res.render('login', { user: req.user, title: 'Battleship: Login', id: 'login' });
 });
 
-http.createServer(app).listen(8080, function(){
-  console.log('Express server listening on port %d in %s mode', 8080, app.settings.env);
+http.createServer(app).listen( process.env.PORT || 8080, function(){
+  console.log('Express server listening on port %d in %s mode', process.env.PORT || 8080, app.settings.env);
 }).on('connection', function (socket) {
 	socket.setTimeout(5 * 60 * 1000); // 5 minute timeout
 });
