@@ -14,3 +14,7 @@ node_modules
 
 npm-debug.log
 
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
