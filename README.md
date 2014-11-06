@@ -7,15 +7,20 @@ BarcampSPS
 =====
 
 Requerimientos: 
+
 	- NodeJS
 
 Pasos para ejecutarlo localmente: 
 
-	- Instalar NodeJS
-	- Descargar el repositorio ( clonarlo con git, o descargar el zip )
-	- Entrar a una terminal y navegar a la raiz de la carpeta descargada.
-	- Ejecutar 
+- Instalar NodeJS
+- Descargar el repositorio ( clonarlo con git, o descargar el zip )
+- Entrar a una terminal y navegar a la raiz de la carpeta descargada.
+- Ejecutar 
+	- npm install
+	- node app.js
+	- abrir el navegador en la direccion http://localhost:8080
 
+Problemas? rsiwady29@gmail.com
 
 ## Fast Mode ##
 
