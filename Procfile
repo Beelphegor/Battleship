@@ -1,1 +1,1 @@
-web: node app.remote.js
+web: node app.js
