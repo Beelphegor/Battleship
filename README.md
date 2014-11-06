@@ -19,8 +19,9 @@ Pasos para ejecutarlo localmente:
 	- npm install
 	- node app.js
 	- abrir el navegador en la direccion http://localhost:8080
-	
 
+Problemas? rsiwady29@gmail.com
+===
 
 ## Fast Mode ##
 
